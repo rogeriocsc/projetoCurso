@@ -1,10 +1,8 @@
-#README
-<p>Esse Projeto...</p>
-Tabela de Conteúdos
-___________________
-*[Sobre](#Sobre)
+Sobre
+___
+Projeto sobre adicionar uma classe Destaque <br>
+Método utilizado: getElementsByClassName <br>
+Permite obter os elementos do DOM que utiliza uma classe específica.
 
-# Sobre
-<p>A</p>
-
-
+* [x] Adicionar Classe Destaque <br>
+[x] Remover Classe Destaque
