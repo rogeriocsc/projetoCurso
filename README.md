@@ -5,4 +5,4 @@ Método utilizado: getElementsByClassName <br>
 Permite obter os elementos do DOM que utiliza uma classe específica.
 
 * [x] Adicionar Classe Destaque <br>
-[x] Remover Classe Destaque
+* [0] Remover Classe Destaque
