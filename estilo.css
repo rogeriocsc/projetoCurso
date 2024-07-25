@@ -26,9 +26,9 @@ main {
 }
 
 .exercicios {
-    width: 320px;
+    width: 900px;
     height: auto;
-    margin: 0px 14px;
+    margin: 40px auto;
     background: transparent;
     border-radius: 10px;
 }
